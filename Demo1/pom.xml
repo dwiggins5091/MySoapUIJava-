@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>SoapUI</groupId>
+  <artifactId>Demo1</artifactId>
+  <version>0.1</version>
+  <name>SoapUI_Demo</name>
+  <description>Demo to Setup and run SoapUI request and response via Java</description>
+
+   <dependencies>
+    <dependency>
+        <groupId>eviware</groupId>
+        <artifactId>maven-soapui-plugin</artifactId>
+        <version>4.5.0</version>
+        <scope>test</scope>
+    </dependency>
+    <dependency>
+    	<groupId>com.fifesoft</groupId>
+    	<artifactId>rsyntaxtextarea</artifactId>
+    	<version>1.4.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.xmlbeans</groupId>
+    	<artifactId>xmlbeans</artifactId>
+    	<version>2.6.0</version>
+    </dependency>
+   </dependencies>
+<repositories>
+    <repository>
+        <id>eviware</id>
+        <url>http://www.eviware.com/repository/maven2/</url>
+    </repository>
+</repositories>
+
+
+</project>
