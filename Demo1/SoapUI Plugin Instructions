@@ -1,0 +1,19 @@
+Maven Dependencies for the SoapUI Plugin ->
+
+    <dependencies>
+    <dependency>
+        <groupId>eviware</groupId>
+        <artifactId>maven-soapui-plugin</artifactId>
+        <version>4.5.0</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+<repositories>
+    <repository>
+        <id>eviware</id>
+        <url>http://www.eviware.com/repository/maven2/</url>
+    </repository>
+</repositories>
+
+
+You will also need SoapUI Pro in order to save your new project

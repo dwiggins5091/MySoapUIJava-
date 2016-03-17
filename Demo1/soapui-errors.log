@@ -8,3 +8,38 @@ com.eviware.soapui.impl.support.definition.support.InvalidDefinitionException
 	at com.eviware.soapui.support.swing.SwingWorkerDelegator.construct(SwingWorkerDelegator.java:46)
 	at com.eviware.soapui.support.swing.SwingWorker$2.run(SwingWorker.java:149)
 	at java.lang.Thread.run(Thread.java:745)
+2016-03-10 12:47:17,831 ERROR [errorlog] java.io.FileNotFoundException:  (Result too large)
+java.io.FileNotFoundException:  (Result too large)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.eviware.soapui.impl.wsdl.WsdlProject.saveIn(WsdlProject.java:847)
+	at soapUI.MySoapUI.main(MySoapUI.java:64)
+2016-03-10 15:59:40,513 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-2855034532159384207.xml
+2016-03-13 06:45:20,706 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-210721971433430480.xml
+2016-03-13 07:55:29,658 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-6007847352316867188.xml
+2016-03-13 07:58:12,862 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-3853246700677806692.xml
+2016-03-14 15:50:56,400 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-2724048097737820426.xml
+2016-03-14 15:52:00,321 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-188131077220661053.xml
+2016-03-14 15:55:39,748 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-6892760721013802978.xml
+2016-03-14 18:34:31,310 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-4679709063125320793.xml
+2016-03-14 18:35:50,742 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-7255398082088511437.xml
+2016-03-15 10:01:14,325 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-6892405788636618335.xml
+2016-03-15 10:03:49,479 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-5371535250122166342.xml
+2016-03-15 10:04:27,393 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-7843254179611744531.xml
+2016-03-15 10:30:18,479 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-6681511819657529299.xml
+2016-03-15 10:31:43,512 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-2070225693614538365.xml
+2016-03-15 10:32:15,726 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-8946886133740590858.xml
+2016-03-15 10:33:58,084 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-6265076195150159619.xml
+2016-03-15 14:40:22,439 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-7547709315196486927.xml
+2016-03-15 14:45:26,617 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-7116934546949648431.xml
+2016-03-15 14:51:16,881 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-8229437770682112263.xml
+2016-03-15 14:52:06,211 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-8059004343548817330.xml
+2016-03-15 15:01:51,965 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-4487344077622175308.xml
+2016-03-16 14:08:07,617 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-9160108302729203895.xml
+2016-03-16 14:12:49,129 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-7637238814297467850.xml
+2016-03-16 14:17:27,406 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-1316700020519365101.xml
+2016-03-16 14:20:06,276 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-8989548396654741660.xml
+2016-03-16 14:44:59,488 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-8301033618462247275.xml
+2016-03-16 14:49:38,438 WARN  [errorlog] Failed to delete temporary project file; C:\Users\DWIGGI~1\AppData\Local\Temp\project-temp-9218569329536306937.xml
